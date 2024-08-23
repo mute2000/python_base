@@ -1,0 +1,13 @@
+[
+    {
+        "username": "admin",
+        "password": "123456",
+        "expect": "登录成功"
+    },
+    {
+        "username": "aaa",
+        "password": "1234567",
+        "expect": "登录失败"
+    }
+
+]
